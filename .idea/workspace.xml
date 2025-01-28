@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c70d138-4e8a-433d-9f1e-c4b8703101ae" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
+    <list default="true" id="4c70d138-4e8a-433d-9f1e-c4b8703101ae" name="Changes" comment="27January2025 commit">
+      <change afterPath="$PROJECT_DIR$/src/WeirdAlgorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JosephKorivi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JosephKorivi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JosephKorivi/cses-problems-and-patterns-of-200.git",
-    "accountId": "2e13e460-a118-4644-826f-d0f1f80cb7e2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JosephKorivi/cses-problems-and-patterns-of-200.git&quot;,
+    &quot;accountId&quot;: &quot;2e13e460-a118-4644-826f-d0f1f80cb7e2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MissingNumber.executor": "Run",
+    "Application.WeirdAlgorithm.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -70,12 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1737977779456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="27January2025 commit">
+      <option name="closed" value="true" />
+      <created>1737979218822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737979218822</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="27January2025 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="27January2025 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
