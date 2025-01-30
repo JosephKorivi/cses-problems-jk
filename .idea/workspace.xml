@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c70d138-4e8a-433d-9f1e-c4b8703101ae" name="Changes" comment="increasing, permutations">
-      <change beforePath="$PROJECT_DIR$/src/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c70d138-4e8a-433d-9f1e-c4b8703101ae" name="Changes" comment="permutations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738254445541</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="permutations">
+      <option name="closed" value="true" />
+      <created>1738255342534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738255342534</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,7 +122,8 @@
     <MESSAGE value="28January2025 commit" />
     <MESSAGE value="Repetitions" />
     <MESSAGE value="increasing, permutations" />
-    <option name="LAST_COMMIT_MESSAGE" value="increasing, permutations" />
+    <MESSAGE value="permutations" />
+    <option name="LAST_COMMIT_MESSAGE" value="permutations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
