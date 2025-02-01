@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c70d138-4e8a-433d-9f1e-c4b8703101ae" name="Changes" comment="permutations">
+    <list default="true" id="4c70d138-4e8a-433d-9f1e-c4b8703101ae" name="Changes" comment="structure">
+      <change afterPath="$PROJECT_DIR$/src/IntroductoryProblems/NumberSpiral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,34 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.IncreasingArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Repetitions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WeirdAlgorithm.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/JOSEPH/IdeaProjects/cses-problems-and-patterns-of-200/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IncreasingArray.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.NumberSpiral.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.Repetitions.executor": "Run",
+    "Application.WeirdAlgorithm.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JOSEPH/IdeaProjects/cses-java-solutions",
+    "onboarding.tips.debug.path": "C:/Users/JOSEPH/IdeaProjects/cses-problems-and-patterns-of-200/src/Main.java"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="cses-java-solutions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="cses-java-solutions" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -138,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738256310246</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="structure">
+      <option name="closed" value="true" />
+      <created>1738262312506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738262312506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +144,7 @@
     <MESSAGE value="Repetitions" />
     <MESSAGE value="increasing, permutations" />
     <MESSAGE value="permutations" />
-    <option name="LAST_COMMIT_MESSAGE" value="permutations" />
+    <MESSAGE value="structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="structure" />
   </component>
 </project>
