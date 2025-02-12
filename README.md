@@ -52,7 +52,8 @@ If you have better optimizations or alternative approaches, feel free to contrib
 - The competitive programming community for inspiration and learning.
 
 ## 📝 License
-This project is open-source and available under the **JOSEPH KORIVI License**.
+This project is open-source and available under the **MIT License**.
+[MIT License](LICENSE)
 
 ---
 **Happy Coding! 🚀**
