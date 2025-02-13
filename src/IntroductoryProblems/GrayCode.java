@@ -14,7 +14,7 @@
                     Print 2^n lines that describe the Gray code. You can print any valid solution.
                     Constraints
 
-                    1 \le n \le 16
+                    1 <= n <= 16
 
                     Example
                     Input:
